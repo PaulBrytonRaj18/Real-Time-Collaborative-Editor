@@ -8,7 +8,7 @@
 
 *DOMAIN*: Full Stack Developement
 
-*DURATION*: 4 weeks
+*DURATION*: 6 weeks
 
 *MENTOR*: **NEELA SANTHOSH**
 
