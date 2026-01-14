@@ -1,17 +1,4 @@
-# COLLABORATIVE-EDITOR-TASK-3
-
-*Company*: CODTECH IT SOLUTIONS
-
-*Name*: Paul Bryton Raj
-
-*INTERN ID*: CY06DY2622
-
-*DOMAIN*: Full Stack Developement
-
-*DURATION*: 6 weeks
-
-*MENTOR*: **NEELA SANTHOSH**
-
+# COLLABORATIVE-EDITOR
 
 **Output**
 
